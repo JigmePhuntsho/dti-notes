@@ -38,12 +38,12 @@ Welcome to the heart of computer science: the **Terminal**. This guide will demy
 <div class="terms-gallery">
     <div class="term-item">
         <span class="term-tag cli">CLI</span>
-        <strong>Command Line Interface</strong>
+        <strong>Command Line <br> Interface</strong>
         <p>The method of interaction—typing text to get things done.</p>
     </div>
     <div class="term-item">
         <span class="term-tag shell">Shell</span>
-        <strong>Command Interpreter</strong>
+        <strong>Command <br> Interpreter</strong>
         <p>The "brain" (e.g., Zsh, Bash) that reads your input and executes it.</p>
     </div>
     <div class="term-item">
